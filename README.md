@@ -13,7 +13,7 @@ const validfy = require("./src/validfy.js")
 console.log(validfy.creditcard("5513553086745735")) 
 ```
 
-### Special thanks
+### ⭐️ Credits and Special thanks
 
 **https://github.com/carvalhoviniciusluiz/ for cpf-cnpj-validator**
 
