@@ -1,4 +1,4 @@
-## Validfy
+## ✅ Validfy
 
 #### A collection of validators in one package
 
