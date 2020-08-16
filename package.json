@@ -1,0 +1,18 @@
+{
+  "name": "validfy",
+  "version": "1.0.0",
+  "description": "A complete js validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node __test__.js"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "author": "https://github.com/sudoGabriel",
+  "license": "ISC",
+  "dependencies": {
+    "cpf-cnpj-validator": "^1.0.2",
+    "luhn": "^2.4.1"
+  }
+}
