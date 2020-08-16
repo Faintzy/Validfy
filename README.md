@@ -16,6 +16,7 @@ console.log(validfy.creditcard("5513553086745735"))
 ### Special thanks
 
 **https://github.com/carvalhoviniciusluiz/ for cpf-cnpj-validator**
+
 **https://github.com/JamesEggers1 for luhn validator**
 
 ### https://github.com/sudoGabriel
