@@ -19,4 +19,4 @@ console.log(validfy.creditcard("5513553086745735"))
 
 **https://github.com/JamesEggers1 for luhn validator**
 
-### https://github.com/sudoGabriel
+**https://github.com/Faintzy**
